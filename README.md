@@ -1,4 +1,4 @@
-Welcome to the android-quiz wiki!
+Welcome to the android-quiz!
 
 ## 👨‍👩‍👧‍👦 팀 소개
 
@@ -14,6 +14,11 @@ IT 자격증 시험(정보처리기사)을 준비하는 학생에게 모바일 �
 |BackEnd|FrontEnd|FrontEnd|BackEnd|
 |[@DaanChoi](https://github.com/DaanChoi)|[@snago9](https://github.com/snago9)|[@jaetaekgood](https://github.com/jaetaekgood)|[@LHeon0310](https://github.com/LHeon0310)|
 
+<br>
+
+## :page_facing_up: Specification<br>
+![캡디 Spec](https://github.com/CAPSTONE-DESIGN-PROJECT-1/android-quiz/assets/104367835/bbcabd82-59cd-4afc-9b6d-06d5259de57b)
+<br>
 
 <br>
 
@@ -23,13 +28,13 @@ IT 자격증 시험(정보처리기사)을 준비하는 학생에게 모바일 �
 - [figma](https://www.figma.com/file/rD5Q52zOdNznMAy31rhNLx/%EC%97%B0%EC%8A%B5%ED%8C%8C%EC%9D%BC?node-id=0-1&t=gNP7wx0hizzsNHzr-0)
 - [백로그](https://docs.google.com/spreadsheets/d/1a7eGRtfVt3GFC8bngfUbwcR6yYxGr1xbmDaCisPrGf8/edit?usp=sharing)
 - [erd](https://www.erdcloud.com/d/4opjZRrm2xGWB8fTP)
+- [API 명세서](https://docs.google.com/spreadsheets/d/1rYAbAqoRr2cNksPed65CMWC7ZhH83osZRsvMcbxwDhA/edit#gid=2079123901)
 
 <br>
 
 ## 🤝 Team Rule
 - [Git Flow, Branch 전략](https://github.com/CAPSTONE-DESIGN-PROJECT-1/android-nangbu/wiki/Git-Flow,-Branch-%EC%84%A4%EB%AA%85)
 
-<br>
 
 <!--
 ## 📅 위클리 스크럼
@@ -66,4 +71,3 @@ IT 자격증 시험(정보처리기사)을 준비하는 학생에게 모바일 �
 - [데일리 스크럼 템플릿](https://github.com/CAPSTONE-DESIGN-PROJECT-1/android-quiz/wiki/%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC-%ED%85%9C%ED%94%8C%EB%A6%BF)
 -->
 <br>
-
