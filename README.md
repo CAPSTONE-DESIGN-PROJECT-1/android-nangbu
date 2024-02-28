@@ -10,7 +10,8 @@ IT 자격증 시험(정보처리기사)을 준비하는 학생에게 모바일 �
 <br>
 
 [Backend source code](https://github.com/CAPSTONE-DESIGN-PROJECT-1/android-backend)   
-[Frontend source code](https://github.com/CAPSTONE-DESIGN-PROJECT-1/android-frontend)
+[Frontend source code](https://github.com/CAPSTONE-DESIGN-PROJECT-1/android-frontend)  
+[결과물 보기](https://drive.google.com/file/d/1aboX616yw-t7YTeq71fpxcWzQmPBKZfN/view?usp=sharing)
 
 <br>
 
@@ -65,9 +66,6 @@ IT 자격증 시험(정보처리기사)을 준비하는 학생에게 모바일 �
 -->
 
 <br>
-
-## ✨ Notion for Schedule
-- [Notion](https://www.notion.so/978009c12e7e41c9afca4c3d3ce4ee84)
 
 <br>
 <!--
