@@ -18,7 +18,7 @@ IT 자격증 시험(정보처리기사)을 준비하는 학생에게 모바일 �
 |최다안|임현규|정재호|이 헌|
 |:-:|:-:|:-:|:-:|
 |BackEnd|FrontEnd|FrontEnd|BackEnd|
-|[@DaanChoi](https://github.com/DaanChoi)|[@snago9](https://github.com/snago9)|[@jaetaekgood](https://github.com/jaetaekgood)|[@LHeon0310](https://github.com/LHeon0310)|
+|[@DaanChoi](https://github.com/DaanChoi)|[@snago9](https://github.com/snago9)|[@jaetaekgood](https://github.com/JaeHoJeong1130)|[@LHeon0310](https://github.com/LHeon0310)|
 
 <br>
 
